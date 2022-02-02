@@ -1,2 +1,2 @@
 # AL3QAB
-AL3QAB Graphics Library
+AL3QAB Graphics Engine
